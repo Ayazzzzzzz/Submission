@@ -1,0 +1,2 @@
+link streamlit share =  https://submission-s9ekushym39p5uqpge5bkm.streamlit.app/
+link jupyter notebook = https://github.com/Ayazzzzzzz/Submission/blob/main/notebook.ipynb
